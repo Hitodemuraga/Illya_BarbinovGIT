@@ -1,0 +1,38 @@
+#MAIN {
+	background: url(../images/g4.jpg);
+	color: #ffffff;
+}
+
+#topicTitle {
+	border: 4px double black;
+    background-color: rgba(128, 0, 128, 0.5);  
+    color: fffff;
+    border-radius: 10px;
+}
+
+#Structure {
+	background-color: rgba(128, 0, 128, 0.5);
+	border: 4px double black;
+	color: ffffff;
+	border-radius: 10px;
+}
+    
+#zodiacPictures {
+    background-color: rgba(128, 0, 128, 0.5);
+	border: 4px double black;
+	color: ffffff;
+	border-radius: 10px;
+}
+
+#zodiacTable {
+	background-color: rgba(0, 0, 0, 0.9);
+	border: 4px double black;
+	color: ffffff;
+	border-radius: 10px;
+
+#header {
+	background-color: rgb(0, 0, 0);
+	height: 100px;
+	color: ffffff;
+}
+
